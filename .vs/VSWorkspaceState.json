@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ProSong",
+    "\\ProSong\\ProSong",
+    "\\ProSong\\ProSong\\Views",
+    "\\ProSong\\ProSong\\Views\\Contact",
+    "\\ProSong\\ProSong\\Views\\Home",
+    "\\ProSong\\ProSong\\Views\\Music",
+    "\\ProSong\\ProSong\\Views\\Shared",
+    "\\ProSong\\ProSong\\wwwroot",
+    "\\ProSong\\ProSong\\wwwroot\\images"
+  ],
+  "SelectedNode": "\\ProSong\\ProSong\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
